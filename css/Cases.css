@@ -1,0 +1,83 @@
+Body{
+    margin: 0;
+    background-image: url(../Pictures/Checkerboard.png);
+}
+
+
+.Webtitle{
+    font-weight: bolder;
+    color:rgb(255, 255, 255);
+    font-size: xx-large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    Margin: 0px;
+    Padding-top: 15px;
+}
+
+.Titlebox{
+    height: 80px;
+    padding-left: 20px;
+    background-color: black;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    font-weight: bolder;
+    color:rgb(255, 255, 255);
+    font-size: xx-large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    Margin: 0px;
+    line-height: 40px;
+    text-align: left;
+}
+
+.Body{
+    Background-color: rgb(79, 79, 79);
+    Padding-left: 50px;
+    padding-right: 50px;
+    Margin: 0px;
+    position: relative;
+    width: 800px;
+    align-content:baseline;
+    min-height:100vh;
+    color: white;
+    font-size:large;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.subtitle{
+    font-size:x-large;
+    font-weight:bold
+}
+
+.center{
+text-align: center;
+}
+
+.pagecontainer{
+    position: relative;
+    min-height: 100hv;
+}
+.footer{
+    position:relative;
+    right:0px;
+    left:0px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    align-content:center;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+}
+
+.menu{
+    text-align: right;
+    font-size:x-large;
+    font-weight:bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.none{
+    text-decoration: none;
+    color: white;
+}
